@@ -1,0 +1,141 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.uper{
+   background-color: #FF900E1A;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+}
+#left{
+    margin: 40px;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#itmes{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 20px;
+}
+.right a{
+    
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.li a{
+    text-decoration: none;
+
+}
+
+.button{
+    background-color: #FF900E;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#banner{
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    color:  #727272;
+    
+}
+#bannerpic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.teamimg{
+    display: flex;
+    gap: 10px;
+    margin-top: 85px;
+    margin-left: 300px;
+ }
+ .maintxt{
+    margin-top: 170px;
+    margin-left: 240px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    color: #727272;
+ }
+ .p{
+    margin-top: 50px;
+ }
+ #sideimg{
+    float: right;
+    width: 708px;
+    height: 982px;
+    margin-left: 140px;
+ }
+ #fac{
+    margin-top: 170px;
+    margin-left: 240px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    color: #727272;
+ }
+ .Facts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:125px ;
+    margin-top: 100px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #727272;
+
+ }
+ .l{
+    border: 2px solid #FF900E ;
+    padding: 40px;
+    backdrop-filter: blur(8px);
+    text-align: center;
+ }
+#u{
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#spo{
+    text-align: center;
+    margin-top: 180px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    color: #727272; 
+}
+.sponsors{
+    display: flex;
+    justify-content: center;
+    gap: 155px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+
+}
